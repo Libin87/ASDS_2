@@ -1,0 +1,8 @@
+App.xbf
+MainWindow.xbf
+Pages\ChangePswd.xbf
+Pages\Components\Header.xbf
+Pages\DateTimeSync.xbf
+Pages\Login.xbf
+Pages\Register.xbf
+Pages\UsrMgmt\UserPage.xbf

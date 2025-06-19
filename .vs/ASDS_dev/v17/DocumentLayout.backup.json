@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASDS_dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|d:\\asds_dev\\pages\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|solutionrelative:pages\\loginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|d:\\asds_dev\\pages\\usrmgmt\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|solutionrelative:pages\\usrmgmt\\userdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|d:\\asds_dev\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|solutionrelative:pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|d:\\asds_dev\\pages\\usrmgmt\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|solutionrelative:pages\\usrmgmt\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|d:\\asds_dev\\pages\\usrmgmt\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|solutionrelative:pages\\usrmgmt\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|d:\\asds_dev\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|d:\\asds_dev\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|d:\\asds_dev\\pages\\components\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5074A3E9-F83E-4177-B7D9-F2A3D992D563}|ASDS_dev.csproj|solutionrelative:pages\\components\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginResult.cs",
+              "DocumentMoniker": "D:\\ASDS_dev\\Pages\\LoginResult.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginResult.cs",
+              "ToolTip": "D:\\ASDS_dev\\Pages\\LoginResult.cs*",
+              "RelativeToolTip": "Pages\\LoginResult.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:20:18.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\ASDS_dev\\Pages\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.xaml.cs",
+              "ToolTip": "D:\\ASDS_dev\\Pages\\Login.xaml.cs*",
+              "RelativeToolTip": "Pages\\Login.xaml.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:20:22.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDatabase.cs",
+              "DocumentMoniker": "D:\\ASDS_dev\\Pages\\UsrMgmt\\UserDatabase.cs",
+              "RelativeDocumentMoniker": "Pages\\UsrMgmt\\UserDatabase.cs",
+              "ToolTip": "D:\\ASDS_dev\\Pages\\UsrMgmt\\UserDatabase.cs",
+              "RelativeToolTip": "Pages\\UsrMgmt\\UserDatabase.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAiwJIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:06:15.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Header.xaml",
+              "DocumentMoniker": "D:\\ASDS_dev\\Pages\\Components\\Header.xaml",
+              "RelativeDocumentMoniker": "Pages\\Components\\Header.xaml",
+              "ToolTip": "D:\\ASDS_dev\\Pages\\Components\\Header.xaml",
+              "RelativeToolTip": "Pages\\Components\\Header.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T06:04:22.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\ASDS_dev\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\ASDS_dev\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwCkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T05:09:02.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\ASDS_dev\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\ASDS_dev\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAI4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T05:09:00.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "D:\\ASDS_dev\\Pages\\UsrMgmt\\UserPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\UsrMgmt\\UserPage.xaml",
+              "ToolTip": "D:\\ASDS_dev\\Pages\\UsrMgmt\\UserPage.xaml",
+              "RelativeToolTip": "Pages\\UsrMgmt\\UserPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-05T04:51:28.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserPage.xaml.cs",
+              "DocumentMoniker": "D:\\ASDS_dev\\Pages\\UsrMgmt\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\UsrMgmt\\UserPage.xaml.cs",
+              "ToolTip": "D:\\ASDS_dev\\Pages\\UsrMgmt\\UserPage.xaml.cs",
+              "RelativeToolTip": "Pages\\UsrMgmt\\UserPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:30:48.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

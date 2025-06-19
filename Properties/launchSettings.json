@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ASDS_dev (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ASDS_dev (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
