@@ -327,3 +327,4 @@ D:\ASDS_dev\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\Pages\Components\
 D:\ASDS_dev\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\Pages\Components\Header.xaml
 D:\ASDS_dev\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\Pages\Components\Header.xbf
 D:\ASDS_dev\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\Pages\Components\Header.xbf
+D:\ASDS_dev\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\ASDS_dev.sourcelink.json

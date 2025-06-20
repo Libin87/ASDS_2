@@ -142,25 +142,9 @@ namespace ASDS_dev.Pages.UsrMgmt
             }
         }
 
-
-
-
-        private async void ShowMessage(string message)
-        {
-            var dialog = new ContentDialog
-            {
-                Title = "Message",
-                Content = message,
-                CloseButtonText = "OK",
-                XamlRoot = this.Content.XamlRoot 
-            };
-            await dialog.ShowAsync();
-        }
+       
 
        
-            
-        
-
         private void UserManagementPage_Loaded(object sender, RoutedEventArgs e)
         {
             LoadUsers();
@@ -239,6 +223,19 @@ namespace ASDS_dev.Pages.UsrMgmt
         }
 
 
+        private async void ShowMessage(string message)
+        {
+            var dialog = new ContentDialog
+            {
+                Title = "Message",
+                Content = message,
+                CloseButtonText = "OK",
+                XamlRoot = this.Content.XamlRoot
+            };
+            await dialog.ShowAsync();
+        }
+
+
         private void CancelClick(object sender, RoutedEventArgs e)
         {
             ClearInputFields();
@@ -252,5 +249,6 @@ namespace ASDS_dev.Pages.UsrMgmt
         {
             this.Frame.Navigate(typeof(ASDS_dev.Pages.DateTimeSync));
         }
+
     }
 }

@@ -19,7 +19,7 @@
     <WindowsSdkPath>
     </WindowsSdkPath>
     <LayoutDir>D:\ASDS_dev\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\AppX</LayoutDir>
-    <RegisteredManifestChecksum>48C2A80CC95C7F74986E9E914465CF5334BEA5D76C748343906EC8AA73AAD661</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>9F9B3A674EBDAA926C6A340558C47A68CD9AFC54297849F56390621ACC87EA0A</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>e608e602-0b9e-4f2b-a756-f062a375cc38_1.0.0.0_x86__4npz3a3d750km</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>e608e602-0b9e-4f2b-a756-f062a375cc38_4npz3a3d750km!App</RegisteredUserModeAppID>
     <RegisteredPackageID>e608e602-0b9e-4f2b-a756-f062a375cc38</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\ASDS_dev\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-06-17T12:13:25.207</Modified>
+      <Modified>2025-06-20T06:30:27.146</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\ASDS_dev\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-06-05T11:28:02.330</Modified>
+      <Modified>2025-06-20T06:30:27.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\ASDS_dev.runtimeconfig.json">
       <PackagePath>ASDS_dev.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\ASDS_dev.dll">
       <PackagePath>ASDS_dev.dll</PackagePath>
-      <Modified>2025-06-17T12:13:24.828</Modified>
+      <Modified>2025-06-20T06:30:26.738</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\obj\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\apphost.exe">
       <PackagePath>ASDS_dev.exe</PackagePath>
-      <Modified>2025-06-17T12:13:24.874</Modified>
+      <Modified>2025-06-20T06:30:26.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Mactu\.nuget\packages\microsoft.web.webview2\1.0.2651.64\runtimes\win-x86\native\WebView2Loader.dll">
       <PackagePath>runtimes\win-x86\native\WebView2Loader.dll</PackagePath>
@@ -1064,7 +1064,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\ASDS_dev.deps.json">
       <PackagePath>ASDS_dev.deps.json</PackagePath>
-      <Modified>2025-06-05T06:25:05.732</Modified>
+      <Modified>2025-06-20T06:30:26.967</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\Assets\home.jpg">
       <PackagePath>Assets\home.jpg</PackagePath>
@@ -1076,7 +1076,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2025-05-15T05:24:23.941</Modified>
+      <Modified>2025-06-20T04:58:32.258</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\Assets\login.png">
       <PackagePath>Assets\login.png</PackagePath>
@@ -1092,23 +1092,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-05-15T05:24:23.941</Modified>
+      <Modified>2025-06-20T04:58:32.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ASDS_dev\Assets\Square150x150Logo.scale-200.png">
-      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
-      <Modified>2025-05-15T05:24:23.949</Modified>
+    <AppxPackagedFile Include="D:\ASDS_dev\Assets\Square150x150Logo.scale-200.png.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png.png</PackagePath>
+      <Modified>2025-06-20T04:58:32.258</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
-      <Modified>2025-05-15T05:24:23.949</Modified>
+      <Modified>2025-06-20T04:58:32.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ASDS_dev\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
-      <Modified>2025-05-15T05:24:23.949</Modified>
+    <AppxPackagedFile Include="D:\ASDS_dev\Assets\Square44x44Logo.targetsize-24_altform-unplated.png.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png.png</PackagePath>
+      <Modified>2025-06-20T04:58:32.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ASDS_dev\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <Modified>2025-05-15T05:24:23.949</Modified>
+    <AppxPackagedFile Include="D:\ASDS_dev\Assets\StoreLogo.png.png">
+      <PackagePath>Assets\StoreLogo.png.png</PackagePath>
+      <Modified>2025-06-20T04:58:32.258</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\Assets\tank_shape.png">
       <PackagePath>Assets\tank_shape.png</PackagePath>
@@ -1116,7 +1116,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
-      <Modified>2025-05-15T05:24:23.949</Modified>
+      <Modified>2025-06-20T04:58:32.258</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

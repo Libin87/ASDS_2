@@ -1,0 +1,1 @@
+D:\ASDS_dev\bin\x86\Debug\net6.0-windows10.0.19041.0\win10-x86\AppPackages\ASDS_dev_1.0.0.0_x86_Debug_Test\ASDS_dev_1.0.0.0_x86_Debug.msix

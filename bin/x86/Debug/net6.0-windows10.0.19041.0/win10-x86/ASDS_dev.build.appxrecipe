@@ -820,17 +820,17 @@
     <AppxPackagedFile Include="D:\ASDS_dev\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ASDS_dev\Assets\Square150x150Logo.scale-200.png">
-      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="D:\ASDS_dev\Assets\Square150x150Logo.scale-200.png.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ASDS_dev\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
-      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+    <AppxPackagedFile Include="D:\ASDS_dev\Assets\Square44x44Logo.targetsize-24_altform-unplated.png.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\ASDS_dev\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
+    <AppxPackagedFile Include="D:\ASDS_dev\Assets\StoreLogo.png.png">
+      <PackagePath>Assets\StoreLogo.png.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ASDS_dev\Assets\tank_shape.png">
       <PackagePath>Assets\tank_shape.png</PackagePath>
